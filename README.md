@@ -46,3 +46,5 @@ In the Pokemon game the agents are strategically located in order to catch as mu
 using the pathfinding algoritems the agents find the shortests weighted path between the pokemons in the most efficent way.
 
 The scores that the game achieved for the player chosen level are sent to a game server.
+
+[![HitCount](http://hits.dwyl.com/Shaked-g/Pokemon-Game-Ex2-OOP.svg)](http://hits.dwyl.com/Shaked-g/Pokemon-Game-Ex2-OOP)
