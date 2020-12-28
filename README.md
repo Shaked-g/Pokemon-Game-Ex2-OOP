@@ -48,5 +48,3 @@ using the pathfinding algoritems the agents find the shortests weighted path bet
 The scores that the game achieved for the player chosen level are sent to a game server.
 
 
-[![HitCount](http://hits.dwyl.com/Shaked-g/Pokemon-Game-Ex2-OOP.svg)](http://hits.dwyl.com/Shaked-g/Pokemon-Game-Ex2-OOP)
-
